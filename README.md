@@ -2,7 +2,7 @@
 
 ## Opis 📝
 Gra w kółko i krzyżyk stworzona w Pythonie przy użyciu biblioteki Tkinter. Umożliwia graczom rywalizację w klasyczną grę, gdzie mogą wybrać swój symbol (X lub O) i walczyć o zwycięstwo na planszy 3x3.
-
+![widok](docs/images/app.png)
 ## Funkcjonalności 🌟
 - Wybór symbolu: gracze mogą wybrać, czy chcą grać jako X czy O.
 - Rozgrywka dla dwóch graczy: każdy gracz wykonuje ruchy na przemian.
